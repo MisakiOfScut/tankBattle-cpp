@@ -1,0 +1,4 @@
+﻿  MainWindow.cpp
+c:\users\misaki\source\repos\battlecity\battlecity\mainwindow.cpp(346): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\misaki\source\repos\battlecity\battlecity\mainwindow.cpp(609): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  BattleCity.vcxproj -> C:\Users\misaki\source\repos\BattleCity\Debug\BattleCity.exe
